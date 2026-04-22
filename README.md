@@ -18,3 +18,4 @@ Petrol vehicles cause pollution and climate change. By 2040, everyone should dri
 
 ## How to Follow My Progress
 Watch this repository to see updates!
+🔢 **Try my EV Calculator:** [ev_calculator.py](https://github.com/yewshwantssriram-2909/ev-2040-vision/blob/main/ev_calculator.py)
