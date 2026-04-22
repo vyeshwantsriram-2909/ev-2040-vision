@@ -1,0 +1,80 @@
+==================================================
+🚗 EV 2040 INDIA CALCULATOR
+==================================================
+
+📋 TELL US ABOUT YOURSELF
+------------------------------
+Your name: yeshwant sriram.v
+Your city: puducherry 
+Daily km you drive: 150
+Current vehicle (petrol/diesel): petrol
+Your annual income (₹): 50000
+
+==================================================
+📊 EV REPORT FOR YESHWANT SRIRAM.V
+==================================================
+
+📍 Location: puducherry 
+🚗 Daily driving: 150.0 km
+⛽ Current vehicle: PETROL
+
+💰 COST COMPARISON
+------------------------------
+Daily fuel cost: ₹1125.00
+Daily EV cost: ₹180.00
+Daily savings: ₹945.00
+
+Yearly fuel cost: ₹410,625.00
+Yearly EV cost: ₹65,700.00
+Yearly savings: ₹344,925.00
+
+🏷️ GOVERNMENT SUBSIDY
+------------------------------
+Income: ₹50,000
+Eligibility: FULL SUBSIDY (100%)
+
+📈 10-YEAR SAVINGS PROJECTION
+------------------------------
+Year 1: ₹344,925 saved
+Year 2: ₹689,850 saved
+Year 3: ₹1,034,775 saved
+Year 4: ₹1,379,700 saved
+Year 5: ₹1,724,625 saved
+Year 6: ₹2,069,550 saved
+Year 7: ₹2,414,475 saved
+Year 8: ₹2,759,400 saved
+Year 9: ₹3,104,325 saved
+Year 10: ₹3,449,250 saved
+
+🌍 ENVIRONMENTAL IMPACT
+------------------------------
+Yearly CO2 from your petrol vehicle: 6,570 kg
+By switching to EV, you save 6,570 kg CO2
+That's like planting 328 trees every year!
+
+⚡ INDIA'S ELECTRICITY NEED BY 2040
+------------------------------
+Total vehicles in India by 2040: 350,000,000
+EVs by 2040 (50% target): 175,000,000
+Daily electricity needed: 788 million kWh
+Yearly electricity needed: 287,438 million kWh
+
+📜 MY POLICY RECOMMENDATION
+------------------------------
+🇮🇳 FASTag Model for EVs:
+• 2026-2030: Build infrastructure
+• 2031-2035: Phase out commercial petrol vehicles
+• 2036-2040: Complete ban on new petrol vehicles
+
+==================================================
+✅ FINAL VERDICT
+==================================================
+yeshwant sriram.v, you will save ₹344,925 EVERY YEAR!
+You should buy an EV today! 🚗
+
+==================================================
+🎯 GOAL: ZERO PETROL VEHICLES BY 2040
+==================================================
+Thank you for using EV 2040 India Calculator!
+Created by: yewshwantssriram-2909
+📱 GitHub: https://github.com/yewshwantssriram-2909/ev-2040-vision
